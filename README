@@ -5,3 +5,4 @@ This is a very basic application that demonstrates Play 2.0 fundamentals:
 - Linking to public assets.
 - Using the template engine.
 - Handling forms with validation.
+- This line is just to test a commit
